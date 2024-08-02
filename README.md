@@ -2,17 +2,18 @@
 
 Flutter Developer Test | Hashmicro
 
-# Screen Shots
+# Screenshots
 
 Below is a screenshot of the page section:
 
-<img src="https://github.com/user-attachments/assets/ea8f7e51-47fe-4f2f-81b0-cff3aba34524" width="200">
-<img src="https://github.com/user-attachments/assets/996d8788-a338-491d-95a4-355b515c3f29" width="200">
-<img src="https://github.com/user-attachments/assets/e3c70e18-b6f6-436f-bce4-39abb459efe8" width="200">
-<img src="https://github.com/user-attachments/assets/c4ad7bb1-e536-4a6c-b399-de0313e0edf6" width="200">
-<img src="https://github.com/user-attachments/assets/d9c413f3-ea0b-4868-afca-28107c7a1e50" width="200">
-<img src="https://github.com/user-attachments/assets/a1d4b14a-8218-4cc5-a8ff-414b5f304135" width="200">
-<img src="https://github.com/user-attachments/assets/9199cb13-0c19-4004-aabe-7709bad22889" width="200">
+<img src="https://github.com/user-attachments/assets/f29fad5e-5476-42bc-ad90-77e74381fa99" width="200">
+<img src="https://github.com/user-attachments/assets/18952f9c-879a-4d43-8f69-442ad420f02b" width="200">
+<img src="https://github.com/user-attachments/assets/1bfcfb12-10bc-4ba6-af5e-bcec67c9f735" width="200">
+<img src="https://github.com/user-attachments/assets/e69ee949-8f18-4526-a5a8-a1bda5da127d" width="200">
+<img src="https://github.com/user-attachments/assets/32c622b0-9e68-47df-b477-af51d5cb2fd6" width="200">
+<img src="https://github.com/user-attachments/assets/6f14392d-dd5e-43fc-8e18-24ae733e786e" width="200">
+<img src="https://github.com/user-attachments/assets/ada63dc0-bfba-4b19-9f2e-0679d68dc2f4" width="200">
+<img src="https://github.com/user-attachments/assets/2825d2e9-0a20-4758-b98c-f66d8a27be0f" width="200">
 
 ## Requirements
 
